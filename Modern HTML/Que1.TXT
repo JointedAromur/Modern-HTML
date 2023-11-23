@@ -1,0 +1,34 @@
+
+
+HTML5 Features 
+
+Objective:
+
+To gain a comprehensive understanding of the key features of HTML5 and their impact on web development.
+
+
+
+1. Identify and describe the new semantic elements introduced in HTML5.
+
+>Explain the purpose and usage of each element.
+>Provide examples of how these elements can be used to improve the structure and readability of web content.
+
+2. Explore the audio and video embedding capabilities of HTML5.
+
+>Demonstrate how to embed audio and video content using the <audio> and <video> tags.
+>Discuss the advantages of using native HTML5 audio and video over third-party plugins.
+
+3. Investigate the functionalities of the <canvas> element.
+
+>Create simple graphics and animations using the <canvas> element and JavaScript.
+>Explain how the <canvas> element can be used to enhance web content and applications.
+
+4. Experiment with the Geolocation API.
+
+>Develop a web application that utilizes the Geolocation API to display the user's location.
+>Discuss the ethical considerations involved in using geolocation data.
+
+5. Utilize the Web Storage API to store data locally on the user's device.
+
+>Implement a web application that stores user preferences or application data using Web Storage.
+>Compare and contrast Web Storage with traditional cookie-based storage methods.

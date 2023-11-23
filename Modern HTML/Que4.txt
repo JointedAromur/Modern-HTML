@@ -1,0 +1,22 @@
+Improving HTML Accessibility 
+
+Objective:
+
+To explore and understand effective strategies for enhancing the accessibility of HTML-based web pages, ensuring an inclusive and equitable online experience for all users.
+
+Tasks:
+
+1. Implement alternative text for images.
+
+>Explain the significance of alternative text (alt text) in providing alternative descriptions for images.
+>Demonstrate how to incorporate alt text for images using HTML tags and provide clear, concise descriptions that accurately convey the visual content.
+
+2. Structure content with semantic HTML elements.
+
+>Delve into the concept of semantic HTML markup and its role in enhancing accessibility.
+>Illustrate the correct usage of semantic HTML elements, such as <h1>, <h2>, <p>, <nav>, <main>, and <aside>, to clearly define the structure and hierarchy of web page content.
+
+3. Ensure keyboard navigation and focus indicators.
+
+>Discuss the importance of keyboard navigation for users with motor impairments or those who prefer using a keyboard to interact with web pages.
+>Demonstrate how to implement keyboard navigation using appropriate HTML attributes and JavaScript code to ensure that all interactive elements can be accessed and activated using keyboard keys.

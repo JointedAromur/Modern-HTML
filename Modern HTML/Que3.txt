@@ -1,0 +1,34 @@
+
+
+Web Accessibility 
+
+Objective:
+
+To gain a comprehensive understanding of web accessibility, its importance, and the benefits it brings to diverse user groups.
+
+
+
+1. Define web accessibility and its significance in web development.
+
+>Explain the concept of web accessibility and its role in ensuring an inclusive online experience.
+>Differentiate between accessibility and usability, highlighting their distinct yet complementary nature.
+
+2. Discuss the principles of web accessibility and their impact on user experience.
+
+>Elaborate on the four key principles of web accessibility: PERCEIVABLE, UNDERSTANDABLE, OPERABLE, and ROBUST.
+>Provide examples of how each principle contributes to an accessible and inclusive user experience.
+
+3. Identify and explain common accessibility barriers that can hinder website usability.
+
+>Recognize various types of accessibility barriers, such as visual impairments, auditory impairments, cognitive disabilities, and motor impairments.
+>Discuss how these barriers can prevent individuals from accessing and interacting with websites effectively.
+
+4. Explore strategies for creating accessible websites that cater to diverse user needs.
+
+>Investigate web accessibility guidelines and standards, such as WCAG (Web Content Accessibility Guidelines) and WAI-ARIA (Web Accessibility Initiative – Accessible Rich Internet Applications).
+>Propose practical methods for implementing accessibility features, such as alternative text for images, transcripts for audio/video content, and keyboard navigation.
+
+5. Analyze the benefits of creating accessible websites for both users and businesses.
+
+>Discuss the ethical and social implications of web accessibility, emphasizing its role in promoting digital inclusion.
+>Evaluate the economic benefits of accessible websites, including increased customer satisfaction, brand reputation, and market reach.

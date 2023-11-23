@@ -1,0 +1,34 @@
+
+
+
+HTML Entities 
+
+Objective:
+
+To gain a thorough understanding of HTML entities, their purpose, and their usage in web development.
+
+
+1. Define and explain the concept of HTML entities.
+
+>Describe the role of HTML entities in web development and their significance.
+>Differentiate between HTML entities and character references.
+
+2. Identify and list five commonly used HTML entities.
+
+>Provide the corresponding HTML entity code and the character it represents for each entry.
+>Explain the specific use cases and applications of each commonly used HTML entity.
+
+3. Demonstrate the implementation of HTML entities in simple HTML code examples.
+
+>Create HTML code snippets that incorporate the five commonly used HTML entities.
+>Illustrate the correct placement and usage of HTML entities within HTML elements.
+
+4. Discuss the advantages and limitations of using HTML entities.
+
+>Highlight the benefits of using HTML entities for representing special characters and symbols.
+>Acknowledge potential drawbacks or limitations of using HTML entities in web development.
+
+5.Explore alternative methods for representing special characters in HTML.
+
+>Investigate the use of character references as an alternative to HTML entities.
+>Discuss the applicability and advantages of character references in specific scenarios.
